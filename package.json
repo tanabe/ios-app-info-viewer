@@ -1,0 +1,27 @@
+{
+  "name": "Bird's Eye",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanabe/birds-eye.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanabe/birds-eye/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.20",
+    "@types/yargs": "^17.0.8",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "yargs": "^17.3.1"
+  }
+}
