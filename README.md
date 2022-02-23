@@ -11,7 +11,7 @@ $ npm i
 ## Running the sample
 
 ```
-$ npx ts-node src/main.ts -i sample/apps.json
+$ npx ts-node src/main.ts -i sample/config.json
 ┌─────────┬───────────┬──────────────────────────────────┬───────────┬──────────────────┐
 │ (index) │  trackId  │            trackName             │  version  │ minimumOsVersion │
 ├─────────┼───────────┼──────────────────────────────────┼───────────┼──────────────────┤
