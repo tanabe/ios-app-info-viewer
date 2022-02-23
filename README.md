@@ -8,7 +8,7 @@ Lookup the iOS app info.
 $ npm i
 ```
 
-## Run sample
+## Running the sample
 
 ```
 $ npx ts-node src/main.ts -i sample/apps.json
