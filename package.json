@@ -6,13 +6,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanabe/birds-eye.git"
+    "url": "git+https://github.com/tanabe/ios-app-info-viewer.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tanabe/birds-eye/issues"
+    "url": "https://github.com/tanabe/ios-app-info-viewer/issues"
   },
   "devDependencies": {
     "@types/node": "^17.0.20",
