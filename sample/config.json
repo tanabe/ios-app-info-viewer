@@ -1,5 +1,5 @@
 {
-    "keys": ["trackId", "trackName", "version", "minimumOsVersion"],
+    "keys": ["trackId", "trackName", "version", "minimumOsVersion", "bundleId"],
     "country": "US",
     "appIds": [
         "284882215",
