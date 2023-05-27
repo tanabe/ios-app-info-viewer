@@ -1,6 +1,6 @@
-# Bird's Eye
+# iOS App Info viewer
 
-Lookup the iOS app info.
+This tool displays app info about specific iOS apps.
 
 ## Setup
 
