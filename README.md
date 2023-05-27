@@ -14,6 +14,11 @@ This sample code shows information about some well-known apps.
 
 ```
 $ npx ts-node src/main.ts show --file sample/config.json
+```
+
+After running the sample code, you will see the table below.
+
+```
 ┌─────────┬───────────┬──────────────────────────────────┬───────────┬──────────────────┐
 │ (index) │  trackId  │            trackName             │  version  │ minimumOsVersion │
 ├─────────┼───────────┼──────────────────────────────────┼───────────┼──────────────────┤
@@ -26,7 +31,7 @@ $ npx ts-node src/main.ts show --file sample/config.json
 
 ## Print available keys
 
-If you want see entire available keys, Use `keys` command.
+If you want see entire available keys, use `keys` command.
 
 ```
 $ npx ts-node src/main.ts keys --file sample/config.json
