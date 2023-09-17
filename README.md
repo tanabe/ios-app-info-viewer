@@ -8,12 +8,20 @@ This tool displays app info about specific iOS apps.
 $ npm i
 ```
 
+```
+$ yarn install
+```
+
 ## Running the sample
 
 This sample code shows information about some well-known apps.
 
 ```
-$ npx ts-node src/main.ts show --file sample/config.json
+$ npm run sample
+```
+
+```
+$ yarn run sample
 ```
 
 After running the sample code, you will see the table below.

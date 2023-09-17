@@ -2,7 +2,9 @@
   "name": "ios-app-info-viewer",
   "version": "0.2.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sample": "ts-node src/main.ts show --file sample/config.json",
+    "showKeys": "ts-node src/main.ts keys --file sample/config.json"
   },
   "repository": {
     "type": "git",
